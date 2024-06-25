@@ -1,0 +1,9 @@
+.video {
+    width: 312px !important;
+}
+
+.video img {
+    height: 170px;
+    object-fit: cover;
+    border-radius: 0 0 var(--bs-card-inner-border-radius) var(--bs-card-inner-border-radius);
+}
